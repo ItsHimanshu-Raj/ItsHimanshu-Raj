@@ -10,7 +10,7 @@
 
 ### About
 
-I'm a BCA student focused on building a career at the intersection of **Artificial Intelligence** and **Cybersecurity**. I'm developing a strong foundation in programming and applying it to real projects.
+I'm a BCA student focused on building a career at the intersection of **Artificial Intelligence** and **Cybersecurity**.
 
 - 🎓 Pursuing Bachelor of Computer Applications (BCA)
 - 🎯 Goal: AI Developer / AI Cybersecurity Engineer
@@ -21,7 +21,6 @@ I'm a BCA student focused on building a career at the intersection of **Artifici
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -33,14 +32,6 @@ I'm a BCA student focused on building a career at the intersection of **Artifici
 | **AI / ML** | Machine learning, neural networks, Python libraries |
 | **Cybersecurity** | Network security, ethical hacking basics, secure code |
 | **Systems** | C/C++, memory management, data structures |
-
-### Roadmap
-
-- [x] Learn programming fundamentals
-- [ ] Build Python projects (automation, ML)
-- [ ] Complete C/C++ data structures practice
-- [ ] Learn ML with scikit-learn and TensorFlow/PyTorch
-- [ ] Study cybersecurity and build a security tool
 
 ### Contact
 
