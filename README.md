@@ -1,5 +1,5 @@
 <h1 align="center">Himanshu Raj</h1>
-<h3 align="center">BCA Student | Aspiring AI Developer & AI Security Engineer</h3>
+<h3 align="center">BCA Student </h3>
 
 <p align="center">
   <a href="https://instagram.com/1tsraj"><img src="https://img.shields.io/badge/Instagram-1F2937?style=for-the-badge&logo=instagram&logoColor=white"/></a>
