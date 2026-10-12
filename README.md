@@ -11,7 +11,7 @@
 
 ---
 
-### 🐍 About Me, in Python
+### 🐍 About Me,
 
 ```python
 class Himanshu:
