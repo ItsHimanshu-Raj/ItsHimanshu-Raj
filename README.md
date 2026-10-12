@@ -36,5 +36,3 @@ I'm a BCA student focused on building a career at the intersection of **Artifici
 ### Contact
 
 📸 [@1tsraj](https://instagram.com/1tsraj) · 🐦 [@1tsRaj](https://x.com/1tsRaj)
-
-<p align="center"><sub>Open to learning, collaboration, and beginner-friendly projects.</sub></p>
